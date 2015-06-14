@@ -7,13 +7,13 @@ $ git clone https://github.com/aswyx/parse_groceries_python.git
 
 $ cd parse_groceries_python
 
-create new virtualenv with python 3, for example:
+*create new virtualenv with python 3, for example:*
 
 $ virtualenv --python=/usr/local/bin/python3.4 venv
 
 $ . venv/bin/activate
 
-install requirements
+*install requirements*
 
 $ pip install -r requirements.txt
 
